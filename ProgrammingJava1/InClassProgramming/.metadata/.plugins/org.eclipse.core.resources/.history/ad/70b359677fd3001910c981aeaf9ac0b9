@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package chp1_2;
+
+/**
+ * @author arthur.martinez
+ *
+ */
+public class main_source {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

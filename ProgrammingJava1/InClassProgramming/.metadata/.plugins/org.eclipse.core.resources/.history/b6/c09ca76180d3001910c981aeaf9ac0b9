@@ -1,0 +1,22 @@
+/**
+ * 
+ */
+package chp1_2;
+
+/**
+ * @author arthur.martinez
+ *
+ *my name is Arthur
+ */
+public class main_source {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO display a missive
+		System.out.print("Hello World");
+
+	}
+
+}

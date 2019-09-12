@@ -1,0 +1,10 @@
+
+public class HelloWorldApplication {
+
+	public static void main(String[] args) {
+		System.out.print("Hello World");
+		System.exit(0);
+
+	}
+
+} //end of class
